@@ -1,0 +1,18 @@
+{
+  "name": "theusermanager",
+  "version": "1.0.0",
+  "description": "my internship app for backend on node",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vishal sharma",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+    "node": "10.x"
+  }
+}
